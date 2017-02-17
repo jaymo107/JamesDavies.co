@@ -1,0 +1,21 @@
+{
+  "name": "jamesdavies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highlightjs": "^9.8.0",
+    "jquery": "^3.1.1",
+    "linkifyjs": "^2.1.4",
+    "prismjs": "^1.6.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.26.1",
+    "style-loader": "^0.13.1"
+  }
+}
